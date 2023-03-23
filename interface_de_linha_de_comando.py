@@ -1,0 +1,1 @@
+from Calculadora_de_Unidades_de_armazenamento import converterStringParaFloat, bitParaByte, byteParaBit, BytesParaKbyte, kbyteParBytes, KbyteParaMbyte, MBparaKB, MBparaGB, GBparaMB, GBparaTB, TBparaGB, TBparaPB, PBparaTB 
