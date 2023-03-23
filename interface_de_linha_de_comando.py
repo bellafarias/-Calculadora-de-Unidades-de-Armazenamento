@@ -1,1 +1,3 @@
 from Calculadora_de_Unidades_de_armazenamento import converterStringParaFloat, bitParaByte, byteParaBit, BytesParaKbyte, kbyteParBytes, KbyteParaMbyte, MBparaKB, MBparaGB, GBparaMB, GBparaTB, TBparaGB, TBparaPB, PBparaTB 
+
+print("Escreva 1 para converter de Bit(b) para Byte(B) \n Escreva 2 para converter de Byte(B) para Bit(b) \n Escreva 3 para converter de Byte(B) para KiloByte(KB) \n Escreva 4 para converter para")
