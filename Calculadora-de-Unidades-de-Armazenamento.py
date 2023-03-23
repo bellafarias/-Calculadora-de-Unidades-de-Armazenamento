@@ -85,7 +85,7 @@ entradaDoTecladoValorASerConvertido = converterStringParaFloat (input())
 valorConvertido = kbyteParBytes(entradaDoTecladoValorASerConvertido)
 print(valorConvertido)
 
-print('Insira o valor a ser convertido de Mbytes para Kbytes')
+print('Insira o valor a ser convertido de Kbytes para Mbytes')
 entradaDoTecladoValorASerConvertido = converterStringParaFloat (input())
 valorConvertido = KbyteParaMbyte (entradaDoTecladoValorASerConvertido)
 print(valorConvertido)
